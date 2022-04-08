@@ -1,1 +1,1 @@
-Repo containing the [DesperBlog](https://josepereiro.github.io/DesperBlog/) web page!
+Repo containing the [DesperBlog](el-despertar-de-los-simios.github.io/desperblog/) web page!
