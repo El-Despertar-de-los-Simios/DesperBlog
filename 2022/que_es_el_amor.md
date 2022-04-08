@@ -13,3 +13,7 @@ Primer camino: aferrarse a la idea preformada del amor (incluso mientras se dice
 Segundo camino (el mío, si ha de saber): tener esporádicas crisis que se vuelven más breves con el tiempo; eventualmente conversar sobre qué es el amor, qué es la vida y su sentido; decidir seguir viviendo sin saber la respuesta y tratando de ignorar estas cuestiones llegando a disfrutar incluso los debates sobre ellas; sentirse participe del cliché que se volverá su realidad: “Vivir la vida”. Llegará entonces al mismo resultado del camino uno, convencerse a sí mismo de que encontró el amor.
 
 Como una fiel transeúnte del camino dos, sepa que no ando por la vida cavilando sobre estas cuestiones; sencillamente hago lo que el momento requiere para ser feliz o lo que creo que me está haciendo feliz, lo cual es una feliz conclusión. Siempre queda el desabor de no tener una respuesta. Llega el momento en la vida donde finalmente apreciamos que hay cuestiones que no somos capaces de responder. Entonces hemos de preguntarnos también si tiene sentido escribir sobre esto, pero usted fue advertido, persiste aún la duda de qué es el amor y se le suma la duda de si tiene sentido o no preguntárselo.
+
+___
+
+Deje un comentario [aquí](https://github.com/El-Despertar-de-los-Simios/DesperBlog/discussions/2)
