@@ -1,6 +1,6 @@
 ## Bienvenido 🐵s
 
-Discuciones para [aquí](https://github.com/El-Despertar-de-los-Simios/DesperBlog/discussions)...
+Discusiones para [aquí](https://github.com/El-Despertar-de-los-Simios/DesperBlog/discussions)...
 
 ### 2022
 
