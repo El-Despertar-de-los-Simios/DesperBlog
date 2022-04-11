@@ -1,23 +1,23 @@
 ## Palmas olvidadas
 
-Soy de la generación que creció con las palmas abonadas por el óxido del machete.
-Soy de la generación que entiende por sangre solo seis letras.
-La generación muda, sorda, ciega, pero con alas.
-Que escucha,
-Ladra,
-Huye,
-Luego extraña.
-Traicionada por la generación que una vez fue traicionada.
-Olvidada.
-Estruja papeles.
-Enojada.
-Finge roles, no se inmuta, o se inmuta hacia el suelo
-Suda, rueda, empuja, jala, entra, sale, grita, silencio,
-Calla.
-Sierra, ruido, tronco.
-Se caen las palmas, campo desierto
-Monte adentro una semilla, dos, tres
-¿Crecerán más palmas?
+Soy de la generación que creció con las palmas abonadas por el óxido del machete. <br />
+Soy de la generación que entiende por sangre solo seis letras. <br />
+La generación muda, sorda, ciega, pero con alas. <br />
+Que escucha, <br />
+Ladra, <br />
+Huye, <br />
+Luego extraña. <br />
+Traicionada por la generación que una vez fue traicionada. <br />
+Olvidada. <br />
+Estruja papeles. <br />
+Enojada. <br />
+Finge roles, no se inmuta, o se inmuta hacia el suelo <br />
+Suda, rueda, empuja, jala, entra, sale, grita, silencio, <br />
+Calla. <br />
+Sierra, ruido, tronco. <br />
+Se caen las palmas, campo desierto <br />
+Monte adentro una semilla, dos, tres <br />
+¿Crecerán más palmas? <br />
 
 ___
 
