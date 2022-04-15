@@ -8,10 +8,9 @@ Ahora... ¿Será siempre esto así? ¿Está cambiando? ¿Si lo está, cómo y de
 Sobre la relación de la Biología y estas otras ciencias "duras" (en particular la Computación) les escribí voluntariamente(?) a mis estudiantes un resumito histórico.
 Se los comparto a ver si así lo lee alguien...
 
-Leer online: [link](https://docs.google.com/viewer?url=https://github.com/fBioGC/Computation\_and\_Biology/raw/main/Computation\_and\_Biology.pdf)  <br />
-Descargar: [link](https://github.com/fBioGC/Computation\_and\_Biology/raw/main/Computation\_and\_Biology.pdf)  <br />
+Leer online: [link](https://docs.google.com/viewer?url=https://github.com/fBioGC/Computation_and_Biology/raw/main/Computation_and_Biology.pdf)
+Descargar: [link](url=https://github.com/fBioGC/Computation_and_Biology/raw/main/Computation_and_Biology.pdf)
 
- 
 Besitos
 
 
